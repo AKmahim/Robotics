@@ -10,4 +10,4 @@
 5. Blynk Apps (from google play store)
 
 ## Circuit Diagram
-![circuit diagram]<img src="https://github.com/AKmahim/Robotics/blob/main/smart%20home%20using%20Node%20MCU/Circuit.jpg" width="400" height="600">
+<img src="https://github.com/AKmahim/Robotics/blob/main/smart%20home%20using%20Node%20MCU/Circuit.jpg" width="600" height="600">
